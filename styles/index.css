@@ -1,6 +1,7 @@
 body{
     background: #f1f2f3 url("../images/bg.png") repeat top left;
-    font-family: SiYuan;
+    /*font-family: SiYuan;*/
+    font-family: Lato, "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .header{
     height: 142px;
