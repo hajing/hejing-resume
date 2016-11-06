@@ -137,7 +137,7 @@ body{
     height: 18px;
     background: url("../images/green.png") no-repeat;
     position: absolute;
-    top: 48px;
+    top: 45px;
     left: 216px;
 }
 .experience-two{
@@ -145,7 +145,7 @@ body{
     height: 18px;
     background: url("../images/yellow.png") no-repeat;
     position: absolute;
-    top: 48px;
+    top: 45px;
     left: 256px;
 }
 .experience-three{
@@ -153,7 +153,7 @@ body{
     height: 18px;
     background: url("../images/blue.png") no-repeat;
     position: absolute;
-    top: 48px;
+    top: 45px;
     left: 402px;
 }
 .experience-four{
@@ -161,7 +161,7 @@ body{
     height: 18px;
     background: url("../images/purple.png") no-repeat;
     position: absolute;
-    top: 48px;
+    top: 45px;
     left: 444px;
 }
 .experience-five{
@@ -169,7 +169,7 @@ body{
     height: 18px;
     background: url("../images/red.png") no-repeat;
     position: absolute;
-    top: 48px;
+    top: 45px;
     left: 650px;
 }
 .experience-six{
@@ -177,7 +177,7 @@ body{
     height: 18px;
     background: url("../images/yellow.png") no-repeat;
     position: absolute;
-    top: 48px;
+    top: 45px;
     left: 710px;
 }
 .item{
@@ -283,8 +283,9 @@ body{
 }
 .about-me{
     width: 571px;
-    height: 400px;
+    height: 390px;
     background: url("../images/about_background_2.png") no-repeat;
+    padding-top: 10px;
 }
 .about-me h1{
     padding-left: 10px;
@@ -293,8 +294,9 @@ body{
     padding-left: 12px;
     width: 96%;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 25px;
     text-indent: 32px;
+    margin-top: 5px;
 }
 .about-contact{
     width: 571px;
@@ -319,7 +321,7 @@ body{
 .about-webDesign{
     width: 360px;
     height: 400px;
-    background: url("../images/webdesign_background.png");
+    background: url("../images/webdesign_background.png") no-repeat;
 }
 .footer{
     margin-top: 12px;
