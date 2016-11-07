@@ -6,6 +6,9 @@ body{
     /*font-family: SiYuan;*/
     font-family: Lato, "PingFang SC", "Microsoft YaHei", sans-serif;
 }
+#preload-01 {
+    background: url("../images/topics.png") no-repeat -9999px -9999px;
+}
 .header{
     height: 142px;
     background: url("../images/header_background.png") repeat-x;
