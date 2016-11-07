@@ -34,19 +34,19 @@ body{
     font-size: 16px;
 }
 .header-info{
-    width: 186px;
+    width: 182px;
     height: 74px;
     margin-top: 38px;
     color: #ffffff;
-    margin-right: 5px;
+    /*margin-right: -15px;*/
     line-height: 28px;
 }
 .my-birth{
-    font-family: Mononoki;
+    /*font-family: Mononoki;*/
     font-size: 20px;
 }
 .my-phone{
-    font-family: Mononoki;
+    /*font-family: Mononoki;*/
     font-size: 18px;
 }
 .university{
@@ -114,24 +114,33 @@ body{
     background-color: #ffffff;
     color: #596083;
     /*font-family: SiYuan;*/
+    width: 38px;
+    height: 22px;
+    z-index: 5;
 }
 .li-sec-span{
     margin-left: 24%;
     background-color: #ffffff;
     color: #596083;
     /*font-family: SiYuan;*/
+    width: 38px;
+    height: 22px;
 }
 .li-thi-span{
     margin-left: 24%;
     background-color: #ffffff;
     color: #596083;
     /*font-family: SiYuan;*/
+    width: 38px;
+    height: 22px;
 }
 .li-fou-span{
     margin-left: 24%;
     background-color: #ffffff;
     color: #596083;
     /*font-family: SiYuan;*/
+    width: 38px;
+    height: 22px;
 }
 .experience-one{
     width: 18px;
@@ -327,6 +336,7 @@ body{
 }
 .about-info{
     width: 90%;
+    height: 364px;
     padding-left: 20px;
     font-size: 20px;
 }
