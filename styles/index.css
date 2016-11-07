@@ -86,7 +86,7 @@ body{
     margin-top: 20px;
 }
 .experience a{
-    display: inline;
+    display: inline-block;
 }
 .experience-show {
     height: 375px;
@@ -308,14 +308,6 @@ body{
     text-indent: 32px;
     margin-top: 5px;
 }
-.about-contact{
-    width: 571px;
-    height: 136px;
-    background: url("../images/contact_background.png") no-repeat;
-    margin-top: 15px;
-    padding-top: 14px;
-    padding-left: 21px;
-}
 .contact-item{
     margin-left: 55px;
     text-align: center;
@@ -336,9 +328,10 @@ body{
 }
 .about-info{
     width: 90%;
-    height: 364px;
+    height: 360px;
     padding-left: 20px;
     font-size: 20px;
+    line-height: 24px;
 }
 .about-info span{
     font-size: 35px;
