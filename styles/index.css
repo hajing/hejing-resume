@@ -104,7 +104,7 @@ body{
     margin-left: 26px;
 }
 .experience-item{
-    margin-top: 20px;
+    margin-top: 12px;
 }
 .first-li{
     height: 20px;
@@ -151,7 +151,7 @@ body{
     height: 18px;
     background: url("../images/green.png") no-repeat;
     position: absolute;
-    top: 45px;
+    top: 38px;
     left: 216px;
 }
 .experience-two{
@@ -159,7 +159,7 @@ body{
     height: 18px;
     background: url("../images/yellow.png") no-repeat;
     position: absolute;
-    top: 45px;
+    top: 38px;
     left: 256px;
 }
 .experience-three{
@@ -167,7 +167,7 @@ body{
     height: 18px;
     background: url("../images/blue.png") no-repeat;
     position: absolute;
-    top: 45px;
+    top: 38px;
     left: 402px;
 }
 .experience-four{
@@ -175,7 +175,7 @@ body{
     height: 18px;
     background: url("../images/purple.png") no-repeat;
     position: absolute;
-    top: 45px;
+    top: 38px;
     left: 444px;
 }
 .experience-five{
@@ -183,7 +183,7 @@ body{
     height: 18px;
     background: url("../images/red.png") no-repeat;
     position: absolute;
-    top: 45px;
+    top: 38px;
     left: 650px;
 }
 .experience-six{
@@ -191,7 +191,7 @@ body{
     height: 18px;
     background: url("../images/yellow.png") no-repeat;
     position: absolute;
-    top: 45px;
+    top: 38px;
     left: 710px;
 }
 .item{
@@ -200,7 +200,7 @@ body{
     width: 94%;
     color: #8f9092;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 20px;
 }
 .item i{
     font-style: normal;
