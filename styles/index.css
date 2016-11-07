@@ -84,6 +84,7 @@ body{
     height: 74px;
     background: url("../images/university_logo.png") no-repeat;
     margin-left: 15px;
+    position: absolute;
 }
 .experience{
     margin-top: 20px;
