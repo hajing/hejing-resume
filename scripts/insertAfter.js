@@ -1,5 +1,5 @@
 /**
- * Created by hejing on 2016/10/26.
+ * Created by hejing on 2016/11/5.
  */
 function insertAfter(newElement,targetElement){
     var parent = targetElement.parentNode;

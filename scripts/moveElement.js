@@ -1,5 +1,5 @@
 /**
- * Created by hejing on 2016/10/26.
+ * Created by hejing on 2016/11/5.
  */
 function moveElement(elementID,final_x,final_y,interval){
     if(!document.getElementById) return false;

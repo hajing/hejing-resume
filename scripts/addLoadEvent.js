@@ -1,5 +1,5 @@
 /**
- * Created by hejing on 2016/10/20.
+ * Created by hejing on 2016/11/5.
  */
 function addLoadEvent(func){
     var oldonload = window.onload;
