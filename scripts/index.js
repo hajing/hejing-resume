@@ -8,4 +8,7 @@ $(function () {
     $(".experience-four").mouseover(function () {$("#col_3").css("fontWeight","bold");}).mouseout(function () {$("#col_3").css("fontWeight","normal");});
     $(".experience-five").mouseover(function () {$("#col_4").css("fontWeight","bold");}).mouseout(function () {$("#col_4").css("fontWeight","normal");});
     $(".experience-six").mouseover(function () {$("#col_5").css("fontWeight","bold");}).mouseout(function () {$("#col_5").css("fontWeight","normal");});
-})
+
+    $("#tips").fadeIn(1000).fadeOut(1000).fadeIn(2000).fadeOut(1000);
+
+});
