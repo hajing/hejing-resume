@@ -93,7 +93,7 @@ body{
     display: inline-block;
 }
 .experience-show {
-    height: 375px;
+    height: 400px;
     padding-top: 9px;
     background: url("../images/experience_background_2.png") no-repeat;
 }
@@ -207,26 +207,21 @@ body{
 }
 .experience-green{
     color: #77c183;
-    font-weight: bold;
 }
 .experience-yellow{
     color: #f7b149;
-    font-weight: bold;
 }
 .experience-blue{
     color: #63c4d7;
-    font-weight: bold;
 }
 .experience-purple{
     color: #c490be;
-    font-weight: bold;
 }
 .experience-red{
     color: #e7357f;
-    font-weight: bold;
 }
 .skill{
-    margin-top: 20px;
+    /*margin-top: 20px;*/
 }
 .skill-show{
     height: 310px;
@@ -367,6 +362,12 @@ body{
     font-size: 16px;
     margin-left: 118px;
     display: none;
+}
+.test-class{
+    width: 88%;
+    margin: 0 auto;
+    height: 76%;
+    font-size: 15px;
 }
 /*公共样式*/
 .public-container{
