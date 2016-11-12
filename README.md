@@ -3,7 +3,7 @@
 
 先奉上地址吧，后面再说下搭建过程中的一些事，
 访问地址：[http://hajing.github.io/hejing-resume/index.html](http://hajing.github.io/hejing-resume/index.html)
-![我的简历首页](http://7xpy9b.com1.z0.glb.clouddn.com/resume_index.png)
+![我的简历首页](http://7xpy9b.com1.z0.glb.clouddn.com/resume_index1.png)
 
 ## 起因
 因为那句话，也因为辞职了想找份新的工作，刚好也看到了一个比较有新意的简历PSD，于是就把它切来做简历了。（侵权删）
