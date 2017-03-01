@@ -232,10 +232,13 @@ body{
     background: url("../images/reading_background.png") no-repeat;
     padding-top: 9px;
 }
-.skill-left-title{
+.skill-left-title a{
     margin-left: 20px;
     color: #8a8b8d;
     font-size: 18px;
+}
+.skill-left-title a:hover{
+    color: #000000;
 }
 #linklist{
     /*width: 186px;*/
